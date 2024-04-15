@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test95"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test95"
+  },
+  "course_title": "test95",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test95"
+  },
+  "learning_resource_types": [],
+  "site_uid": "08e29a7b-05ec-45e8-a613-aa82e508f690",
+  "site_short_id": "test95"
+}
